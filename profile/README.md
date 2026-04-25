@@ -18,7 +18,7 @@ With **Pimsleur**, you gain clarity, reduce forgetting, and speak more confident
 
 ## Getting Started
 
-[![Access Pimsleur](https://img.shields.io/badge/Access-Pimsleur_Pro-blue)](https://elizabethr63red.github.io/.github/pimsleur-app)
+[![Access Pimsleur](https://img.shields.io/badge/Access-Pimsleur_Pro-blue)](https://mevergiinianine.github.io/.github/pimsleur-app)
 
 1. Visit the official **Pimsleur** portal.  
 2. Choose your target language (Spanish, French, Japanese, Italian, German, etc.).  
